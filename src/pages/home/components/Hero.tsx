@@ -45,7 +45,7 @@ export default function Hero() {
         <div className="flex-1 flex items-center">
           <div className="w-full px-6 md:px-10 lg:px-14 pt-32 md:pt-36 pb-24">
             <div className="max-w-2xl">
-              <h1 className="animate-fade-up-delay-1 font-serif-display text-[60px] leading-[0.95] sm:text-[68px] md:text-[78px] lg:text-[88px] xl:text-[104px] text-white tracking-[-0.03em] text-balance drop-shadow-[0_2px_30px_rgba(0,0,0,0.35)]">
+              <h1 className="animate-fade-up-delay-1 font-serif-display text-[60px] leading-[0.95] sm:text-[68px] md:text-[78px] lg:text-[88px] xl:text-[90px] text-white tracking-[-0.03em] text-balance drop-shadow-[0_2px_30px_rgba(0,0,0,0.35)]">
                 Intelligence
                 <span className="italic text-white/60"> that</span>
                 <br />

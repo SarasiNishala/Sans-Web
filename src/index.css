@@ -19,7 +19,7 @@
 
 @layer utilities {
   .font-serif-display {
-    font-family: 'Instrument Serif', 'Times New Roman', serif;
+    font-family:'Inclusive Sans', serif;
     font-weight: 400;
     letter-spacing: -0.02em;
   }
